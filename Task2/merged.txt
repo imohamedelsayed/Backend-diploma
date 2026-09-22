@@ -1,0 +1,6 @@
+Hello Mohamed!
+Welcome to Node.js.
+This is the first file.
+I am learning Backend Development.
+Node.js is a JavaScript runtime.
+This is the second file.
